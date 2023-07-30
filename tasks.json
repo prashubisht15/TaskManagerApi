@@ -1,0 +1,103 @@
+{
+    "allTasks": [
+        {
+            "id": "1",
+            "title": "Complete project proposal",
+            "description": "Write a detailed proposal for the new project",
+            "completed": false,
+            "priority": "high",
+            "createdAt": 1679823873456,
+            "lastModified": 1679823873456
+        },
+        {
+            "id": "2",
+            "title": "Prepare presentation",
+            "description": "Create a presentation for the upcoming meeting",
+            "completed": false,
+            "priority": "medium",
+            "createdAt": 1679823879999,
+            "lastModified": 1679823879999
+        },
+        {
+            "id": "3",
+            "title": "Review code changes",
+            "description": "Review and test the recent code changes",
+            "completed": true,
+            "priority": "low",
+            "createdAt": 1679823885000,
+            "lastModified": 1679823885000
+        },
+        {
+            "id": "4",
+            "title": "Update website content",
+            "description": "Update the website content with new product information",
+            "completed": false,
+            "priority": "medium",
+            "createdAt": 1679823892000,
+            "lastModified": 1679823892000
+        },
+        {
+            "id": "5",
+            "title": "Fix bugs in mobile app",
+            "description": "Identify and fix bugs reported by users on the mobile app",
+            "completed": false,
+            "priority": "high",
+            "createdAt": 1679823898000,
+            "lastModified": 1679823898000
+        },
+        {
+            "id": "6",
+            "title": "Test new feature",
+            "description": "Run comprehensive tests on the newly implemented feature",
+            "completed": true,
+            "priority": "low",
+            "createdAt": 1679823904000,
+            "lastModified": 1679823904000
+        },
+        {
+            "id": "8",
+            "title": "make a todo list",
+            "description": "Create a todo list for today's routine",
+            "completed": false,
+            "priority": "medium",
+            "createdAt": 1679823909999,
+            "lastModified": 1679824009999
+        },
+        {
+            "id": "9",
+            "title": "make a todo list",
+            "description": "Create a todo list for today's routine",
+            "completed": false,
+            "priority": "medium",
+            "createdAt": 1679823909999,
+            "lastModified": 1679823909999
+        },
+        {
+            "id": "9",
+            "title": "make a todo list",
+            "description": "Create a todo list for today's routine",
+            "completed": false,
+            "priority": "medium",
+            "createdAt": 1679823909999,
+            "lastModified": 1679823909999
+        },
+        {
+            "id": "10",
+            "title": "new Task",
+            "description": "Create a todo list for today's routine",
+            "completed": false,
+            "priority": "medium",
+            "createdAt": 1690743081477,
+            "lastModified": 1690743081477
+        },
+        {
+            "id": "10",
+            "title": "new Task",
+            "description": "Create a todo list for today's routine",
+            "completed": false,
+            "priority": "medium",
+            "createdAt": 1690743093108,
+            "lastModified": 1690743093108
+        }
+    ]
+}

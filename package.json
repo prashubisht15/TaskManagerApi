@@ -1,0 +1,23 @@
+{
+  "name": "taskmanagerapi",
+  "version": "1.0.0",
+  "description": "this repositoty contains api to manage your tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashubisht15/TaskManagerApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashubisht15/TaskManagerApi/issues"
+  },
+  "homepage": "https://github.com/prashubisht15/TaskManagerApi#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
